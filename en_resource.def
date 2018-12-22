@@ -1,0 +1,64 @@
+Capture the Full Screen
+Capture the Full Screen (with Timer)
+Capture an Area of the Screen
+Capture a Selected Window
+Capture Format: PNG
+Capture Format: JPEG
+Capture Format: TIFF
+Capture Format: BMP
+Save as PNG
+Save as JPEG
+Save as TIFF
+Save as BMP
+Capture Location: Desktop Folder
+Capture Location: Documents Folder
+Capture Location: Downloads Folder
+Save to Desktop
+Save to Documents
+Save to Downloads
+Use Capture Timer
+Capture Delay: 3 seconds
+Capture Delay: 5 seconds
+Capture Delay: 10 seconds
+No delay
+Capture the Full Screen (3 sec Timer)
+Capture the Full Screen (5 sec Timer)
+10 second delay
+Pre-Capture Options
+Include Mouse Cursor
+Include Drop Shadow
+Play Sound
+Post-Capture Options
+Open in Preview / Quicktime
+Copy to the Clipboard
+Show Notifications
+Reveal in Finder
+Start at Login
+About...
+A simple screen capture utility for macOS
+Full screen captured!
+Screen area captured!
+Screen window captured!
+Fatal error: Required resource not found!
+Close
+OK
+Screen captures will not be saved to disk when the 'Copy to the Clipboard' option is enabled unless the 'Open in Preview' option is also selected.
+Full screen has been copied to the Clipboard!
+Screen area has been copied to the Clipboard!
+Screen window has been copied to the Clipboard!
+seconds to Screen Capture...
+Settings
+Resize Retina Captures
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+Capture Location: Google Drive
+Save to Google Drive
+Capture Full Screen Video (10 secs)
+Capture Full Screen Video (15 secs)
+Capture Full Screen Video (30 secs)
+Show Mouse Clicks
+Open in Quicktime Viewer
+Video of screen activity captured!
