@@ -1,5 +1,7 @@
 # Menu Snappr Overview
 
+![Menu Snappr](https://widgetworx.com/resources/menu_snappr.png)
+
 *Menu Snappr* is a simple but full-featured screen capture utility that runs in your menu bar that supports the following functionality:
 
 - Capture the entire screen (both with and without a 3 or 5 second timer)
