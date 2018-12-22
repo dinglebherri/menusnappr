@@ -27,7 +27,7 @@ You can always download the latest version from here:
 To build it:
 
 1. Download and install Platypus
-2. Use the included **Menu Snappr.platypus** profile and replace the existing script path with A local copy of **menu_cap.pl**
+2. Use the included **Menu Snappr.platypus** profile and replace the existing script path with a local copy of **menu_cap.pl**
 3. Include all of the various .PNG images and the **en_resource.def** file as part of the Platypus app bundle
 
 Have fun!
