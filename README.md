@@ -13,9 +13,12 @@
 - Choose whether to include the mouse pointer or drop shadow in a screen capture
 - Works in macOS’ Dark mode
 - Choose whether or not to run Menu Snappr each time you login to your computer
-- And more…
+- And more...
 
-## Building Menu Snappr
+You can always download the latest version from here:
+(https://widgetworx.com/projects/menu_snappr.html)
+
+# Building Menu Snappr
 
 *Menu Snappr* was written in a combination of Perl, AppleScript, and shell commands and built with [Platypus](https://www.sveinbjorn.org/platypus).
 
