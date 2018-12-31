@@ -513,7 +513,7 @@ if ($line =~ /$menu[36]/) {
 # hack that sets up preferences and UI values if no pref file exists
 sub init {
 	$os_detect = `sw_vers -productVersion`;
-	if ($os_detect  =~ m/10.14/) || ($os_detect =~ m/10.15/) {
+	if ($os_detect  =~ m/10.14/ || $os_detect =~ m/10.15/) {
 		$os_version = 1;
 	} else {
 		$os_version = 0;
