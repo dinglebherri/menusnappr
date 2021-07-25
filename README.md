@@ -17,8 +17,6 @@
 - Choose whether or not to run Menu Snappr each time you login to your computer
 - And more...
 
-You can always download the latest version from here:
-(https://widgetworx.com/projects/menu_snappr.html)
 
 # Building Menu Snappr
 
